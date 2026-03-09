@@ -1,4 +1,3 @@
-以下均为 AI 生成。
 配置：vscode + claude code + 百炼GLM5
 
 指令：
@@ -7,7 +6,7 @@
 > 3. 在项目根目录增加 `.gitignore` 文件，避免当前项目中不必要或机密内容上传至 github 泄露
 
 
-
+以下均为 AI 生成。
 ---
 # HEIC to JPG Converter
 
