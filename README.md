@@ -5,6 +5,11 @@
 > 2. 将当前项目的设计思路中符合 Python 最佳实践的内容提炼成一个新的 md 文档（readme），供 Python 初学者学习使用，文件放在根目录中。
 > 3. 在项目根目录增加 `.gitignore` 文件，避免当前项目中不必要或机密内容上传至 github 泄露
 
+已人工测试命令：
+```powershell
+uv run heic2jpg --help
+uv run heic2jpg *.heic
+```
 
 以下均为 AI 生成。
 ---
@@ -105,4 +110,4 @@ heic2jpg --help
 
 ## 许可证
 
-MIT License
+MIT License (AI写的，不作数)
