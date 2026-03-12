@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(uv sync)",
-      "Bash(uv run heic2jpg --help)"
+      "Bash(uv run heic2jpg --help)",
+      "Bash(dir \"D:\\\\NC_Work\\\\___DL\\\\Pic-Format-Converter\")"
     ]
   }
 }
